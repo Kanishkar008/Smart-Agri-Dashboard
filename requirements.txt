@@ -2,3 +2,5 @@ streamlit
 tensorflow
 numpy
 pillow
+scikit-learn
+joblib
